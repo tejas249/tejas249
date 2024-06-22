@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **tejaskamble0208@gmail.com**
 
+- Checkout Portfolio - **https://tejas249dev.netlify.app**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tejas249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tejas249" height="30" width="40" /></a>
