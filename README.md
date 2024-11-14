@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tejas Kamble</h1>
-<h3 align="center">A passionate Frontend Developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer (MERN) from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejas249&label=Profile%20views&color=0e75b6&style=flat" alt="tejas249" /> </p>
 
