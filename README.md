@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Food Delivery Website**
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **FullStack Development**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB, SQL**
+- 💬 Ask me about ** FullStack Development(MERN)**
 
 - 📫 How to reach me **tejaskamble0208@gmail.com**
 
