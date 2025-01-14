@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejas249" alt="tejas249" /></a> </p>
 
-- 🔭 I’m currently working on **Food Delivery Website**
+- 🔭 I’m currently working on **Fullstack Projects**
 
 - 🌱 I’m currently learning **FullStack Development**
 
