@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **tejaskamble0208@gmail.com**
 
-- Checkout Portfolio - **[My Portfolio](tejasscodes.netlify.app)**
+- Checkout Portfolio - **[My Portfolio](https://tejasscodes.netlify.app)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
