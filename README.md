@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **tejaskamble0208@gmail.com**
 
-- 📄 **[View My Resume](https://drive.google.com/file/d/1AjXY-bhDEHkzfsWIGVfezZ5FgFROB0si/view?usp=sharing)** – Learn more about my skills, projects, and experience.
+- 📄 **[View My Resume](https://drive.google.com/file/d/1k8r7XOvk8ItfrTrdvaCnliBmOQ78gaBO/view?usp=sharing)** – Learn more about my skills, projects, and experience.
 
 - Checkout Portfolio - **[My Portfolio](https://tejasscodes.netlify.app)**
 
