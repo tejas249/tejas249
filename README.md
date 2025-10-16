@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Fullstack Projects**
 
-- 🌱 I’m currently learning **FullStack Development**
+- 🌱 I’m currently learning **Web3**
 
 - 💬 Ask me about ** FullStack Development(MERN)**
 
