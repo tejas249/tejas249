@@ -9,7 +9,7 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejas249" alt="tejas249" /></a>
 </p>
 
-- 💼 I'm currently a **Full Stack Engineer @ [Katonic AI](https://katonic.ai)** — building the katonic.ai & eshal.ai websites, docs/developer/distributor portals, and AI-powered tooling
+- 💼 I'm currently a **Full Stack Engineer @ [Katonic AI](https://katonic.ai)**
 - 🚀 Shipped **Visitzee**, an end-to-end online booking platform for local businesses (650+ automated tests, solo build)
 - 🧠 I'm currently learning **Web3** and exploring more with **LLM/AI-integrated products**
 - 💬 Ask me about **Full Stack Development (Next.js / MERN)**, **AI-integrated apps**, or **DevOps with Docker & GitHub Actions**
